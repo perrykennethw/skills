@@ -90,7 +90,7 @@ def main():
                 raise
         print("Installed:", skill.name)
     print(f"Installed {len(pending)} skills in {destination}.")
-    print("Restart Codex if the skills do not appear.")
+    print("Reload skills or restart your agent harness if the skills do not appear.")
     return 0
 
 
