@@ -1,0 +1,4 @@
+interface:
+  display_name: "Redesign Existing Site"
+  short_description: "Transform an existing site with a coherent visual system"
+  default_prompt: "Use $redesign-existing-site to audit and redesign this site while preserving its required content and behavior."

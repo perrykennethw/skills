@@ -1,0 +1,4 @@
+interface:
+  display_name: "Build UI Foundations"
+  short_description: "Define a coherent visual system for a new UI"
+  default_prompt: "Use $build-ui-foundations to define the visual foundations and design tokens for this interface."

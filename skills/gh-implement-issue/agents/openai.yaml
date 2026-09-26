@@ -1,0 +1,4 @@
+interface:
+  display_name: "Implement GitHub Issue"
+  short_description: "Implement an issue and open a draft PR"
+  default_prompt: "Use $gh-implement-issue to implement this GitHub issue and open a draft PR: ISSUE_URL"

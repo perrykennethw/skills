@@ -1,0 +1,4 @@
+interface:
+  display_name: "Refactor Existing UI"
+  short_description: "Polish existing interfaces without redesigning them"
+  default_prompt: "Use $refactor-existing-ui to diagnose and improve this existing interface while preserving its behavior."

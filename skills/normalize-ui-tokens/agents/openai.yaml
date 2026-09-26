@@ -1,0 +1,4 @@
+interface:
+  display_name: "Normalize UI Tokens"
+  short_description: "Consolidate inconsistent UI values into tokens"
+  default_prompt: "Use $normalize-ui-tokens to audit this frontend and migrate its repeated visual values into coherent tokens."
